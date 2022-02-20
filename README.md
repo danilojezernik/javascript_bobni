@@ -5,6 +5,11 @@
 <dd><a href="https://keycode.info">Pritisni katerokoli tipko, da dobite JavaScript event kodo pritisnjene tipke</a></dd>
 </dl>
 
+<dl>
+<dt>Končni izdelek:</dt>
+<dd><a href="https://danilojezernik.github.io/javascript_bobni/">GitHub page</a></dd>
+</dl>
+
 **Primer povezave v HTML**:
 ```html
 <div data-key="65" class="key">
